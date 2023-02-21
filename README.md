@@ -16,3 +16,31 @@
 3. Delete ```.example``` extension from the ```.env.example``` file on the top-level to convert to ```.env``` file and add your alpaca api and secret keys. If you do not have an account you will need to sign up to generate keys. Reference: [Alpaca API Docs](https://alpaca.markets/docs/introduction/).
 
 4. Next open the ```Portfolios``` directory and run cells in each jupyter notebook for financial analysis.
+
+# Backstory (5 - 10)
+
+> Why we did this
+
+> Method overall
+
+# Mike ( 4-5 )
+
+> Other libraries, API in general
+
+# Eli ( 4-5 )
+
+> Risk
+
+# Omar ( 4-5 )
+
+> Performance
+
+> MonteCarlo
+
+# Eamonn ( 4-5 )
+
+> Dividends
+
+# Review ( 30+ )
+
+> Q/A (Dave & Co.)
