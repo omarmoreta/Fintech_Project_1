@@ -17,20 +17,17 @@
 
 4. Next open the ```Portfolios``` directory and run cells in each jupyter notebook for financial analysis.
 
-# Backstory
+# Backstory (5 - 10)
 
 > Why we did this
-
-
 ### - Eammon's real life portfolio as "jump off" point
-
 > Method overall
 ### - In depth quantitative portfolio analysis.
 ### - Benchmark comparision.
 ### - "Under the hood" analysis of portfolio stocks
 ### - Clustering investigation for interaction between stocks
 
-# Mike
+# Mike ( 4-5 )
 # New Technologies/Libraries 
 ## 1. OpenBB terminal SDK
 #### - Open source project, Bloomberg Terminal like data access & performance
@@ -75,16 +72,16 @@
 - Hedging
 - Time
 
-# Omar
+# Omar ( 4-5 )
 
 > Performance
 
 > MonteCarlo
 
-# Eamonn
+# Eamonn ( 4-5 )
 
 > Dividends
 
-# Review
+# Review ( 30+ )
 
 > Q/A (Dave & Co.)
