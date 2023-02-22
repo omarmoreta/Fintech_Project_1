@@ -20,12 +20,25 @@
 # Backstory (5 - 10)
 
 > Why we did this
-
+### - Eammon's real life portfolio as "jump off" point
 > Method overall
+### - In depth quantitative portfolio analysis.
+### - Benchmark comparision.
+### - "Under the hood" analysis of portfolio stocks
+### - Clustering investigation for interaction between stocks
 
 # Mike ( 4-5 )
+# New Technologies/Libraries 
+## 1. OpenBB terminal SDK
+#### - Open source project, Bloomberg Terminal like data access & performance
+#### - Uses publically available data sources as well as API access. Sources include Coinbase, FRED, Alpha Vantage
+#### - Requires Python 3.8 or greater, pip install openbb
+#### - https://docs.openbb.co/
+## 2.  Riskfolio-Lib
+#### - Portfolio optimization library using alogrithims and mathetmatical modeling
+#### - pip install riskfolio
+#### - https://riskfolio-lib.readthedocs.io/
 
-> Other libraries, API in general
 
 # Eli ( 4-5 )
 
