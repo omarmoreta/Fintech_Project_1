@@ -21,6 +21,10 @@
 
 > Why we did this
 
+``` 
+     Make sure we talk about the bake-off, the story of our portfolios
+```
+
 > Method overall
 
 # Mike ( 4-5 )
