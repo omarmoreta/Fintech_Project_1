@@ -17,34 +17,74 @@
 
 4. Next open the ```Portfolios``` directory and run cells in each jupyter notebook for financial analysis.
 
-# Backstory (5 - 10)
+# Backstory
 
 > Why we did this
 
-``` 
-     Make sure we talk about the bake-off, the story of our portfolios
-```
+
+### - Eammon's real life portfolio as "jump off" point
 
 > Method overall
+### - In depth quantitative portfolio analysis.
+### - Benchmark comparision.
+### - "Under the hood" analysis of portfolio stocks
+### - Clustering investigation for interaction between stocks
 
-# Mike ( 4-5 )
+# Mike
+# New Technologies/Libraries 
+## 1. OpenBB terminal SDK
+#### - Open source project, Bloomberg Terminal like data access & performance
+#### - Uses publically available data sources as well as API access. Sources include Coinbase, FRED, Alpha Vantage
+#### - Requires Python 3.8 or greater, pip install openbb
+#### - https://docs.openbb.co/
+## 2.  Riskfolio-Lib
+#### - Portfolio optimization library using alogrithims and mathetmatical modeling
+#### - pip install riskfolio
+#### - https://riskfolio-lib.readthedocs.io/
 
-> Other libraries, API in general
 
-# Eli ( 4-5 )
+# Eli
 
-> Risk
+## Lets talk about risk
+ What is <b>Risk</b>?  What is the context?
 
-# Omar ( 4-5 )
+### Portfolio Risk
+> ``` The possibility of losing money or missing out on investment goals and objectives ```
+
+### How did risk factor into our portfolios?
+
+> Risk plays an enormous factor in each of our investment portfolios.  You will see that some of our growth potential has to do with the level of exposure we have to specific industries.
+
+> ``` How willing are you to lose it all? ```
+
+### Return Spread
+---
+![Standard Deviation](Resources/Images/stddev.png)
+
+### How does that translate over 10 years?
+
+![Returns](Resources/Images/returns.png)
+
+## Class Betterment
+---
+### What are some ways to mitigate risk?
+
+- Diversification
+- Asset Allocation
+- Risk Tolerance
+- Hedging
+- Time
+
+# Omar
 
 > Performance
 
 > MonteCarlo
 
-# Eamonn ( 4-5 )
+# Eamonn
 
 > Dividends
 
-# Review ( 30+ )
+# Review
 
 > Q/A (Dave & Co.)
