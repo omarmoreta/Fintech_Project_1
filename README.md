@@ -40,9 +40,37 @@
 #### - https://riskfolio-lib.readthedocs.io/
 
 
-# Eli ( 4-5 )
+# Eli
 
-> Risk
+## Lets talk about risk
+ What is <b>Risk</b>?  What is the context?
+
+### Portfolio Risk
+> ``` The possibility of losing money or missing out on investment goals and objectives ```
+
+### How did risk factor into our portfolios?
+
+> Risk plays an enormous factor in each of our investment portfolios.  You will see that some of our growth potential has to do with the level of exposure we have to specific industries.
+
+> ``` How willing are you to lose it all? ```
+
+### Return Spread
+---
+![Standard Deviation](Resources/Images/stddev.png)
+
+### How does that translate over 10 years?
+
+![Returns](Resources/Images/returns.png)
+
+## Class Betterment
+---
+### What are some ways to mitigate risk?
+
+- Diversification
+- Asset Allocation
+- Risk Tolerance
+- Hedging
+- Time
 
 # Omar ( 4-5 )
 
