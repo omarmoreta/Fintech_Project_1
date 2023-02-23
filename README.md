@@ -12,7 +12,7 @@
      ```cd Fintech_Project_1```
      
      ```pip install -r requirements.txt```
-     
+
 3. Delete ```.example``` extension from the ```.env.example``` file on the top-level to convert to ```.env``` file and add your alpaca api and secret keys. If you do not have an account you will need to sign up to generate keys. Reference: [Alpaca API Docs](https://alpaca.markets/docs/introduction/).
 
 4. Next open the ```Portfolios``` directory and run cells in each jupyter notebook for financial analysis.
@@ -74,9 +74,13 @@
 
 # Omar ( 4-5 )
 
-> Performance
+### Performance
+According to the stock analysis of the stock portfolio, which was chosen based off the high market caps, the performance was very good between the years 2013-2023. The daily returns range was between 10 and -11 percent at the most high and low during this time, but daily returns stayed pretty tight around 2 and -2 percent for the portfolio. 
 
-> MonteCarlo
+I think I got very lucky with the porfolio because the stocks were very closely correlated except for 3 stocks (CVS, IBM, and BA). Compared to the SP500, the portfolio doubled its returns during the same time. I think the long time horizon helped against the SP500 since it has to account for many more stocks across different sectors. I definitely could have diversified better but regardless of the stocks being closely correlated, it was helped by market trending higher during this time and it worked out in the porfolios favor.
+
+### MonteCarlo
+During the 500 MonteCarlo simulations for the next 10 years (using data from the previous 8 (2015-2013) Alpaca data limit) there is a 95% chance that an initial investment of 10000 in the portfolio over the next 10 years will end within the range of 25684.13 and 287672.74.
 
 # Eamonn ( 4-5 )
 
@@ -85,3 +89,4 @@
 # Review ( 30+ )
 
 > Q/A (Dave & Co.)
+>>>>>>> f31505cfc6361b1c3c4fc531693045c5e8b92fd6
