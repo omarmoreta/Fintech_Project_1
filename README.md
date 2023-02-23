@@ -12,7 +12,5 @@
      ```cd Fintech_Project_1```
      
      ```pip install -r requirements.txt```
-     
-3. Delete ```.example``` extension from the ```.env.example``` file on the top-level to convert to ```.env``` file and add your alpaca api and secret keys. If you do not have an account you will need to sign up to generate keys. Reference: [Alpaca API Docs](https://alpaca.markets/docs/introduction/).
 
-4. Next open the ```Portfolios``` directory and run cells in each jupyter notebook for financial analysis.
+3. Next open the ```Portfolios``` directory and run cells in each jupyter notebook for financial analysis.
