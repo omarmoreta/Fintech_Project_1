@@ -17,7 +17,7 @@
 
 4. Next open the ```Portfolios``` directory and run cells in each jupyter notebook for financial analysis.
 
-# Backstory (5 - 10)
+# Backstory
 
 > Why we did this
 ### - Eammon's real life portfolio as "jump off" point
@@ -27,7 +27,9 @@
 ### - "Under the hood" analysis of portfolio stocks
 ### - Clustering investigation for interaction between stocks
 
-# Mike ( 4-5 )
+<br>
+
+# Mike
 # New Technologies/Libraries 
 ## 1. OpenBB terminal SDK
 #### - Open source project, Bloomberg Terminal like data access & performance
@@ -39,6 +41,7 @@
 #### - pip install riskfolio
 #### - https://riskfolio-lib.readthedocs.io/
 
+<br>
 
 # Eli
 
@@ -58,7 +61,7 @@
 ---
 ![Standard Deviation](Resources/Images/stddev.png)
 
-### How does that translate over 10 years?
+### How does that translate over time?
 
 ![Returns](Resources/Images/returns.png)
 
@@ -72,7 +75,9 @@
 - Hedging
 - Time
 
-# Omar ( 4-5 )
+<br>
+
+# Omar
 
 ### Performance
 According to the stock analysis of the stock portfolio, which was chosen based off the high market caps, the performance was very good between the years 2013-2023. The daily returns range was between 10 and -11 percent at the most high and low during this time, but daily returns stayed pretty tight around 2 and -2 percent for the portfolio. 
@@ -82,11 +87,14 @@ I think I got very lucky with the porfolio because the stocks were very closely 
 ### MonteCarlo
 During the 500 MonteCarlo simulations for the next 10 years (using data from the previous 8 (2015-2013) Alpaca data limit) there is a 95% chance that an initial investment of 10000 in the portfolio over the next 10 years will end within the range of 25684.13 and 287672.74.
 
-# Eamonn ( 4-5 )
+<br>
+
+# Eamonn 
 
 > Dividends
 
-# Review ( 30+ )
+<br>
+
+# Review 
 
 > Q/A (Dave & Co.)
->>>>>>> f31505cfc6361b1c3c4fc531693045c5e8b92fd6
